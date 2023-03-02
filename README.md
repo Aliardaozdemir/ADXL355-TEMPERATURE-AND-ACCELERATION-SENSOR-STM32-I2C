@@ -1,1 +1,1 @@
-# STM32CUDEIDE generated files are not included
+# STM32CUBEIDE generated files are not included
